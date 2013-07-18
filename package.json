@@ -1,0 +1,23 @@
+{
+  "name": "merge-sort",
+  "version": "0.1.0",
+  "description": "Merge sort",
+  "scripts": {
+    "test": "node scripts/test.js"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "nodeunit": "0.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tristanls/node-merge-sort.git"
+  },
+  "keywords": [
+    "sort",
+    "algorithm",
+    "merge sort"
+  ],
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
