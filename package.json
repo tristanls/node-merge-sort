@@ -1,6 +1,6 @@
 {
   "name": "merge-sort",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Merge sort",
   "scripts": {
     "test": "node scripts/test.js"
